@@ -1,16 +1,23 @@
-## Hi there 👋
+# Nirmal P – AI Engineer
 
-<!--
-**nkpareek96g/nkpareek96g** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an **AI Engineer** specializing in **Generative AI, Large Language Models (LLMs), and Machine Learning**, with hands-on experience building intelligent, scalable systems using **Python**.
 
-Here are some ideas to get you started:
+## 🧠 Expertise
+- Generative AI & LLM-based applications
+- Machine Learning & Deep Learning
+- Natural Language Processing (NLP)
+- AI system design & deployment
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+Python, PyTorch, TensorFlow, LangChain, OpenAI API, Hugging Face, FastAPI, Docker, AWS
+
+## 🚀 What I Work On
+- LLM-powered applications and automation
+- AI-driven data analysis and decision systems
+- End-to-end ML pipelines and model deployment
+
+## 🌐 Connect With Me
+- LinkedIn: https://www.linkedin.com/in/engineer-for-ai/
+- GitHub: https://github.com/nkpareek96g
+
+> _Focused on building real-world AI solutions that create measurable impact._
